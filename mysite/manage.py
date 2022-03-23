@@ -1,4 +1,4 @@
-#!/usr/bin/env pythontrd
+#!/usr/bin/env python 0.1
 """Django's command-line utility for administrative tasks."""
 import os
 import sys
